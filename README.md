@@ -20,7 +20,7 @@ Rate restaurant/cafe (first part): (Batool, Dareen)
 Rate restaurant/cafe (second part): (Dana)
 - ask questions about the below and then give each a rating out of 5 + if it's 2 or under ask for feedback
   - location 
-  - atmosphere
+  - ambience
   - reservation process
 
 At the end, ask for feedback or comments on the system. (Hamda Mohammad, Fatima Alhammadi)

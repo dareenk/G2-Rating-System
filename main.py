@@ -1,3 +1,14 @@
+if question=="1":
+    cafes=input("1: The Coffee Club 2: Starbucks 3: Cafe Arabia ")
+    if cafes=="1":
+        print("4.1/5 Star Rating")
+    elif cafes=="2":
+        print("3/5 Star Rating")
+    elif cafes=="3":
+        print("5/5 Star Rating")
+    else:
+        print("Sorry, it's not in the list")
+        
 if response == "2":  # response is the var chosen initially
 
     name = input("Please enter the resturant/cafe name.")  # name is the restaurant/cafe var
